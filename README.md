@@ -18,18 +18,12 @@ Este projeto tem como objetivo analisar os sentimentos (positivos, negativos ou 
    cd nome-do-repositorio
    ```
 
-2. Crie um ambiente virtual (opcional, mas recomendado):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # ou .\venv\Scripts\activate no Windows
-   ```
-
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Execute a aplicação:
+3. Execute a aplicação:
    ```bash
    streamlit run app.py
    ```
