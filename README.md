@@ -36,4 +36,5 @@ Este projeto tem como objetivo analisar os sentimentos (positivos, negativos ou 
 
 ## 👤 Autores
 
-- Seu Nome
+- Kauã Tofoli
+- Lucas Bocaina
