@@ -2,3 +2,6 @@ pandas
 streamlit
 textblob
 deep-translator
+transformers
+vaderSentiment
+plotly
